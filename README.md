@@ -113,36 +113,10 @@ Feel free to raise any additional topics which interest you.
 ## The Group Project
 
 The project runs the length of the week and is the main thing you'll be evaluated on.
+You'll work in self-picked groups of 3-4, and the deliverable is a web application with a Python backend and a data-analysis component, demoed live on Day 5.
+There is no separate homework track -- the work between sessions is the next increment of your own project.
 
-  * Groups of 3-4, self-picked.
-  * The deliverable is a web application with a Python backend.
-  * It must include a data-analysis component. This can be auxiliary rather than central -- analyzing your application's own usage or content counts.
-  * The data-analysis component should involve some amount of Python. Visualizations within the web application itself may of course be TypeScript or JavaScript.
-  * Each group emails a one-page proposal after Day 1: what it does, who it's for, what data it uses, and what question it answers. I'll approve by Day 2 so you can begin work on it.
-  * You'll have about ninety minutes of in-class project time on each of Days 2, 3 and 4 to work with your groupmates, and can make use of post-class time as needed.
-    Some of Day 4's is for working out what your demo will actually show -- it's the last time you're all in a room with me before you present.
-  * On Day 5 you demo it live -- roughly ten minutes including questions -- in whatever format your group chooses (live app walkthrough, slide presentation, interpretive dance, ...).
-
-Dividing up the work is your group's responsibility.
-Everyone should make some agentic-coding contribution to what you finally show -- it's the skill the week exists to build, and it isn't one you can pick up by watching a groupmate do it.
-If there are concerns about how the work is being shared, try first to settle them within the group, and come to me in cases where that can't or doesn't happen.
-
-Each group creates its own repository on GitHub and shares it with me on Day 2.
-All of your work lives there, and its history is part of what I'll look at.
-
-There is no separate homework track.
-The work between sessions is the next increment of your own project.
-
-Lectures and your project run in parallel rather than in lockstep.
-You'll often apply something days after we cover it, and you'll often want something before we've got to it -- ask, and I'll point you at what you need.
-
-Roughly where you should be by each evening.
-Projects differ, so treat these as targets rather than deliverables:
-
-  * After Day 1 -- a group, and a proposal in my inbox.
-  * After Day 2 -- a repository, and the smallest version of your application that runs at all, storing the data it fetches.
-  * After Day 3 -- something computed from the data your application stores.
-  * After Day 4 -- the thing you proposed, working, and a plan for how you'll show it.
+See [**The Group Project**](GROUP_PROJECT.md) for the details: what counts as a data-analysis component, the proposal due after Day 1, how in-class project time works, and roughly where you should be by each evening.
 
 ## Evaluation
 
@@ -257,6 +231,15 @@ Specifically:
     Don't put anything into a prompt you wouldn't be comfortable sending to a third party, and don't commit credentials or API keys to your repository.
 
 Do familiarize yourself with the Columbia [academic integrity policies](https://www.cc-seas.columbia.edu/academic-integrity/policy-practices/understanding-policy).
+
+## Language
+
+I'll do all of my own prompting in class in English, which is a fact about me and not a rule for you.
+Nothing about a coding agent requires English -- Claude works perfectly well in many languages -- so prompt it in whichever language you think in most comfortably.
+You'll direct it better when you aren't translating your intent before you send it, and there is no penalty whatsoever for working in a language I don't read.
+That holds as well for anything I ask you to hand me which is a record of your own interactions, an exported session being the obvious case.
+
+The things written for a human audience rather than for the agent -- your proposal, your lowlights one-pager, the demo itself -- should be in English, since I and your groupmates are who they're for.
 
 ## Inclusion, Accommodations & Support
 
