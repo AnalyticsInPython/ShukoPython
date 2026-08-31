@@ -10,6 +10,24 @@ It is 65% of your grade; the [syllabus](README.md#evaluation) has what that is j
   * It must include a data-analysis component. This can be auxiliary rather than central -- analyzing your application's own usage or content counts.
   * The data-analysis component should involve some amount of Python. Visualizations within the web application itself may be TypeScript or JavaScript.
 
+## Picking a Topic
+
+Start with a problem, not with a dataset.
+The best projects come from something you or someone you know actually finds annoying, and are small enough that you believe you can find data which answers them in a week.
+Pick the problem first, then go looking for the data.
+Narrow is good -- a small question you answer well beats a big one you can only gesture at in a ten minute demo.
+
+If nothing comes to mind, work in the other direction and browse until something does.
+Wander through large collections of good data and see what makes you curious:
+
+  * 311 service requests -- most large cities publish theirs, and they're perennially popular for good reason: big, messy, timestamped, geocoded, and full of things people actually complain about
+  * Open data portals more generally -- your city's or state's, [data.gov](https://data.gov), or their equivalents elsewhere
+  * Transit, weather, elections, air quality, housing -- anything with a public feed and a long history
+  * The API of something you already use
+
+Browsing is a way to find a question, not a replacement for having one.
+Once a dataset suggests something, turn it back into a problem and a question before you write the proposal.
+
 ## The Proposal
 
 Each group creates a GitHub repository with a `PROPOSAL.md` file after Day 1 which should cover: what it does, who it's for, what data it could use, and what questions it would answer.
